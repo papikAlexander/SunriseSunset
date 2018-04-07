@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SunriseSunset</string>
+    <string name="sunset_time">Sunset time:</string>
+    <string name="city">City</string>
+    <string name="sunrise_time">Sunrise time:</string>
+    <string name="curent_location">Current location</string>
+    <string name="current_location">Current location UTC time</string>
+</resources>
